@@ -26,3 +26,21 @@ This portfolio showcases my skills, projects, and contact information in a clean
 
 ## 📂 Project Structure
 
+---
+
+## 📸 Sections Included
+
+- **Home** – Introduction and personal branding  
+- **About** – Short description about me  
+- **Skills** – Technologies and tools I use  
+- **Projects** – Showcases my work in a grid format  
+- **Contact** – Ways to connect with me  
+
+---
+
+## 🔧 How to Use
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/portfolio.git
+
